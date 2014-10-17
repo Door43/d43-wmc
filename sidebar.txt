@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wmc:home|Door43 (wmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wmc|d43-wmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wmc/archive/master.zip|d43-wmc.zip]]
+
+**Recent Changes**
+{{changes>ns = wmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wmc|Ethnologue data]]
+
